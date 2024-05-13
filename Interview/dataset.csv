@@ -1,0 +1,13 @@
+company,job,question,answer
+hcl,js developer,"JavaScript has both strict and typeÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã¢â‚¬Å“converting comparisons:
+
+",comparison
+hcl,js developer,What are the different data types present in javascript,"To know the type of a JavaScript variable, we can use the typeof operator"
+hcl,js developer,List some features of JavaScript,"Lightweight, Open source, Complementary to HTML"
+hcl,js developer,List some of the advantages of JavaScript,"Interactivity is high, Server interaction is less"
+hcl,js developer,Define a named function in JavaScript,The function which has named at the time of definition is called a named function
+hcl,js developer,Name the types of functions,"Named , Anonymous "
+hcl,js developer,In JavaScript what is an argument object,The variables of JavaScript represent the arguments that are passed to a function
+hcl,js developer,Is JavaScript case sensitive language,JavaScript is a case sensitive language
+hcl,js developer,adfasdf,JavaScript is a case sensitive language
+hcl,js developer,asdfasdfasdfasdf,JavaScript is a case sensitive language
